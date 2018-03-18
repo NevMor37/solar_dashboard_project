@@ -1,0 +1,161 @@
+{"usaf":"692704","wban":"99999","name":"MPRC-FT STEWART","country":"US","state":"GA","call":"KQRC","lat":"32.033","lon":"-81.667","elev":"+0018.0","begin":"19850125","end":"20091215"}
+{"usaf":"720257","wban":"99999","name":"EARLY CO","country":"US","state":"GA","call":"KBIJ","lat":"31.4","lon":"-84.9","elev":"+0065.0","begin":"20040525","end":"20071231"}
+{"usaf":"720257","wban":"63835","name":"EARLY COUNTY AIRPORT","country":"US","state":"GA","call":"KBIJ","lat":"31.397","lon":"-84.895","elev":"+0065.2","begin":"20060101","end":"20180316"}
+{"usaf":"720263","wban":"99999","name":"ELBERT CO PATZ FLD","country":"US","state":"GA","call":"","lat":"34.095","lon":"-82.816","elev":"+0183.8","begin":"20040525","end":"20180305"}
+{"usaf":"720263","wban":"63834","name":"ELBERT CO-PATZ FLD AIRPORT","country":"US","state":"GA","call":"K27A","lat":"34.095","lon":"-82.816","elev":"+0183.8","begin":"20171004","end":"20180315"}
+{"usaf":"720268","wban":"53882","name":"DCATR CO INDUS AIRPK ARPT","country":"US","state":"GA","call":"KBGE","lat":"30.983","lon":"-84.633","elev":"+0043.0","begin":"20060101","end":"20180316"}
+{"usaf":"720268","wban":"99999","name":"DECATUR CO INDUSTRI","country":"US","state":"GA","call":"KBGE","lat":"30.967","lon":"-84.633","elev":"+0043.0","begin":"20040525","end":"20071231"}
+{"usaf":"720289","wban":"99999","name":"THOMSON MCDUFFIE CO","country":"US","state":"GA","call":"KHQU","lat":"33.533","lon":"-82.517","elev":"+0152.0","begin":"20040525","end":"20071231"}
+{"usaf":"720289","wban":"63836","name":"THOMSON-MCDUFFIE CO ARPT","country":"US","state":"GA","call":"KHQU","lat":"33.53","lon":"-82.516","elev":"+0151.8","begin":"20060101","end":"20180316"}
+{"usaf":"720294","wban":"53898","name":"WASHINGTON-WILKES CO ARPT","country":"US","state":"GA","call":"KIIY","lat":"33.78","lon":"-82.816","elev":"+0196.6","begin":"20061028","end":"20180316"}
+{"usaf":"720294","wban":"99999","name":"WASHINGTON WILKES CO","country":"US","state":"GA","call":"KIIY","lat":"33.783","lon":"-82.817","elev":"+0197.0","begin":"20040525","end":"20070520"}
+{"usaf":"720300","wban":"99999","name":"WARNER-ROBINS(NEXRAD)","country":"US","state":"GA","call":"KJGX","lat":"32.683","lon":"-83.35","elev":"+0159.0","begin":"20051224","end":"20051224"}
+{"usaf":"720301","wban":"63846","name":"PLANTATION AIRPARK","country":"US","state":"GA","call":"KJYL","lat":"32.646","lon":"-81.596","elev":"+0057.3","begin":"20060101","end":"20180316"}
+{"usaf":"720301","wban":"99999","name":"PLANTATION AIRPARK","country":"US","state":"GA","call":"KJYL","lat":"32.645","lon":"-81.596","elev":"+0057.0","begin":"20040525","end":"20071231"}
+{"usaf":"720347","wban":"99999","name":"GREENE COUNTY RGNL","country":"US","state":"GA","call":"K3J7","lat":"33.6","lon":"-83.133","elev":"+0206.0","begin":"20050427","end":"20071231"}
+{"usaf":"720347","wban":"63877","name":"GREENE COUNTY REGIONAL AIRPOR","country":"US","state":"GA","call":"K3J7","lat":"33.598","lon":"-83.139","elev":"+0206.4","begin":"20060101","end":"20180316"}
+{"usaf":"720348","wban":"63886","name":"BALDWIN COUNTY AIRPORT","country":"US","state":"GA","call":"KMLJ","lat":"33.154","lon":"-83.241","elev":"+0117.0","begin":"20060101","end":"20180316"}
+{"usaf":"720348","wban":"99999","name":"BALDWIN CO","country":"US","state":"GA","call":"KMLJ","lat":"33.154","lon":"-83.241","elev":"+0117.0","begin":"20050427","end":"20071231"}
+{"usaf":"720392","wban":"00128","name":"HOMERVILLE AIRPORT","country":"US","state":"GA","call":"KHOE","lat":"31.056","lon":"-82.767","elev":"+0057.3","begin":"20130101","end":"20180303"}
+{"usaf":"720392","wban":"99999","name":"HOMERVILLE","country":"US","state":"GA","call":"KHOE","lat":"31.056","lon":"-82.774","elev":"+0056.7","begin":"20070521","end":"20180315"}
+{"usaf":"720409","wban":"99999","name":"BLAIRSVILLE AIRPORT","country":"US","state":"GA","call":"KDZJ","lat":"34.85","lon":"-83.983","elev":"+0582.0","begin":"20071228","end":"20180315"}
+{"usaf":"720671","wban":"99999","name":"JESUP WAYNE CO","country":"US","state":"GA","call":"KJES","lat":"31.554","lon":"-81.883","elev":"+0032.9","begin":"20100111","end":"20171126"}
+{"usaf":"720671","wban":"00248","name":"JESUP WAYNE COUNTY AIRPORT","country":"US","state":"GA","call":"KJES","lat":"31.554","lon":"-81.883","elev":"+0033.2","begin":"20151209","end":"20180315"}
+{"usaf":"720674","wban":"99999","name":"WEST GEORGIA RGNL O V GRAY FL","country":"US","state":"GA","call":"KCTJ","lat":"33.631","lon":"-85.152","elev":"+0353.9","begin":"20100129","end":"20180315"}
+{"usaf":"720674","wban":"00249","name":"WEST GEORGIA REGIONAL AIRPORT","country":"US","state":"GA","call":"KCTJ","lat":"33.633","lon":"-85.15","elev":"+0354.2","begin":"20130101","end":"20171005"}
+{"usaf":"720712","wban":"00250","name":"HENRY TIFT MYERS AIRPORT","country":"US","state":"GA","call":"KTMA","lat":"31.429","lon":"-83.489","elev":"+0108.2","begin":"20130101","end":"20180315"}
+{"usaf":"720714","wban":"99999","name":"PAULDING COUNTY AIRPORT","country":"US","state":"GA","call":"KPUJ","lat":"33.912","lon":"-84.941","elev":"+0393.0","begin":"20100425","end":"20180305"}
+{"usaf":"720714","wban":"00252","name":"PAULDING NORTHWEST ATLANTA AI","country":"US","state":"GA","call":"KPUJ","lat":"33.912","lon":"-84.941","elev":"+0393.2","begin":"20170308","end":"20180315"}
+{"usaf":"720738","wban":"99999","name":"THOMASVILLE RGNL","country":"US","state":"GA","call":"KTVI","lat":"30.902","lon":"-83.881","elev":"+0080.5","begin":"20100621","end":"20180315"}
+{"usaf":"720738","wban":"00267","name":"THOMASVILLE REGIONAL AIRPORT","country":"US","state":"GA","call":"KTVI","lat":"30.902","lon":"-83.881","elev":"+0080.2","begin":"20150531","end":"20180305"}
+{"usaf":"720746","wban":"99999","name":"COVINGTON MUNI","country":"US","state":"GA","call":"","lat":"33.632","lon":"-83.85","elev":"+0242.3","begin":"20100901","end":"20130430"}
+{"usaf":"720897","wban":"99999","name":"MONROE WALTON CO","country":"US","state":"GA","call":"KD73","lat":"33.782","lon":"-83.693","elev":"+0264.3","begin":"20170817","end":"20180315"}
+{"usaf":"720948","wban":"00328","name":"JIMMY CARTER REGIONAL AIRPORT","country":"US","state":"GA","call":"KACJ","lat":"32.11","lon":"-84.189","elev":"+0142.7","begin":"20130101","end":"20180303"}
+{"usaf":"720948","wban":"99999","name":"SOUTHER FLD","country":"US","state":"GA","call":"KACJ","lat":"32.111","lon":"-84.189","elev":"+0143.6","begin":"20110711","end":"20180315"}
+{"usaf":"720951","wban":"00330","name":"EAST GEORGIA REGIONAL AIRPORT","country":"US","state":"GA","call":"KSBO","lat":"32.609","lon":"-82.37","elev":"+0100.3","begin":"20151209","end":"20180315"}
+{"usaf":"720951","wban":"99999","name":"EMANUEL CO","country":"US","state":"GA","call":"KSBO","lat":"32.609","lon":"-82.37","elev":"+0100.0","begin":"20110704","end":"20180305"}
+{"usaf":"720959","wban":"99999","name":"BUTLER MUNI","country":"US","state":"GA","call":"","lat":"32.568","lon":"-84.251","elev":"+0203.3","begin":"20111021","end":"20121031"}
+{"usaf":"720962","wban":"99999","name":"HEART OF GEORGIA RGNL","country":"US","state":"GA","call":"KEZM","lat":"32.214","lon":"-83.128","elev":"+0092.7","begin":"20111021","end":"20180305"}
+{"usaf":"720962","wban":"00337","name":"HEART OF GEORGIA REGIONAL AIR","country":"US","state":"GA","call":"KEZM","lat":"32.214","lon":"-83.128","elev":"+0093.3","begin":"20130101","end":"20180315"}
+{"usaf":"720966","wban":"00339","name":"GRIFFIN SPALDING COUNTY AIRPO","country":"US","state":"GA","call":"K6A2","lat":"33.227","lon":"-84.275","elev":"+0292.3","begin":"20130101","end":"20180315"}
+{"usaf":"720966","wban":"99999","name":"GRIFFIN SPALDING CO","country":"US","state":"GA","call":"K6A2","lat":"33.227","lon":"-84.275","elev":"+0292.0","begin":"20111118","end":"20180303"}
+{"usaf":"721033","wban":"00350","name":"FITZGERALD MUNICIPAL AIRPORT","country":"US","state":"GA","call":"KFZG","lat":"31.684","lon":"-83.27","elev":"+0111.3","begin":"20130101","end":"20180315"}
+{"usaf":"721033","wban":"99999","name":"FITZGERALD MUNI","country":"US","state":"GA","call":"KFZG","lat":"31.684","lon":"-83.27","elev":"+0111.3","begin":"20120620","end":"20180305"}
+{"usaf":"721035","wban":"00352","name":"HAZLEHURST AIRPORT","country":"US","state":"GA","call":"KAZE","lat":"31.885","lon":"-82.647","elev":"+0078.0","begin":"20130101","end":"20180315"}
+{"usaf":"721035","wban":"99999","name":"HAZLEHURST","country":"US","state":"GA","call":"KAZE","lat":"31.885","lon":"-82.647","elev":"+0077.7","begin":"20120705","end":"20180305"}
+{"usaf":"722062","wban":"63842","name":"DOUGLAS MUNICIPAL AIRPORT","country":"US","state":"GA","call":"KDQH","lat":"31.477","lon":"-82.861","elev":"+0078.3","begin":"20060101","end":"20180316"}
+{"usaf":"722062","wban":"99999","name":"DOUGLAS MUNI","country":"US","state":"GA","call":"KDQH","lat":"31.478","lon":"-82.86","elev":"+0078.0","begin":"20040510","end":"20071231"}
+{"usaf":"722070","wban":"03822","name":"SAVANNAH/HILTON HEAD INTL AIR","country":"US","state":"GA","call":"KSAV","lat":"32.131","lon":"-81.202","elev":"+0014.0","begin":"19480101","end":"20180316"}
+{"usaf":"722090","wban":"99999","name":"FT STEWART/WRIGHT","country":"US","state":"GA","call":"KLHW","lat":"31.883","lon":"-81.567","elev":"+0014.0","begin":"19670201","end":"20071231"}
+{"usaf":"722090","wban":"03875","name":"WRIGHT AAF AIRPORT","country":"US","state":"GA","call":"KLHW","lat":"31.883","lon":"-81.567","elev":"+0013.7","begin":"20060103","end":"20180316"}
+{"usaf":"722109","wban":"63848","name":"CANTON/CHEROKEE ARPT","country":"US","state":"GA","call":"K47A","lat":"34.311","lon":"-84.424","elev":"+0371.6","begin":"20060101","end":"20180315"}
+{"usaf":"722109","wban":"99999","name":"CHEROKEE COUNTY AIRPORT","country":"US","state":"GA","call":"KCNI","lat":"34.3","lon":"-84.417","elev":"+0372.0","begin":"20040525","end":"20071231"}
+{"usaf":"722130","wban":"99999","name":"WAYCROSS/WARE CO.","country":"US","state":"GA","call":"KAYS","lat":"31.25","lon":"-82.4","elev":"+0046.0","begin":"20001004","end":"20031231"}
+{"usaf":"722130","wban":"13861","name":"WAYCROSS-WARE CO. AIRPORT","country":"US","state":"GA","call":"KAYS","lat":"31.25","lon":"-82.4","elev":"+0043.3","begin":"19421201","end":"20180316"}
+{"usaf":"722134","wban":"99999","name":"VIDALIA RGNL","country":"US","state":"GA","call":"KVDI","lat":"32.2","lon":"-82.367","elev":"+0084.0","begin":"20010705","end":"20071231"}
+{"usaf":"722134","wban":"63822","name":"VIDALIA REGIONAL AIRPORT","country":"US","state":"GA","call":"KVDI","lat":"32.193","lon":"-82.372","elev":"+0083.5","begin":"20060101","end":"20180316"}
+{"usaf":"722135","wban":"99999","name":"ALMA/BACON CO.","country":"US","state":"GA","call":"","lat":"31.533","lon":"-82.5","elev":"+0061.0","begin":"20100801","end":"20100817"}
+{"usaf":"722135","wban":"13870","name":"ALMA/BACON CO.","country":"US","state":"GA","call":"KAMG","lat":"31.536","lon":"-82.507","elev":"+0062.8","begin":"19730101","end":"20100801"}
+{"usaf":"722136","wban":"53883","name":"BRUNSWICK GOLDEN ISLES APT","country":"US","state":"GA","call":"KBQK","lat":"31.259","lon":"-81.466","elev":"+0007.9","begin":"20060101","end":"20180316"}
+{"usaf":"722137","wban":"13878","name":"MALCOLM MC KINNON AIRPORT","country":"US","state":"GA","call":"KSSI","lat":"31.152","lon":"-81.391","elev":"+0004.9","begin":"19730101","end":"20180306"}
+{"usaf":"722147","wban":"99999","name":"MOULTRIE MUNI","country":"US","state":"GA","call":"KMGR","lat":"31.085","lon":"-83.803","elev":"+0090.0","begin":"20040525","end":"20071231"}
+{"usaf":"722147","wban":"53817","name":"MOULTRIE MUNICIPAL AIRPORT","country":"US","state":"GA","call":"KMGR","lat":"31.083","lon":"-83.8","elev":"+0086.3","begin":"20060101","end":"20180316"}
+{"usaf":"722150","wban":"99999","name":"PEACHTREE CITY","country":"US","state":"GA","call":"","lat":"33.356","lon":"-84.567","elev":"+0244.9","begin":"19990428","end":"20060212"}
+{"usaf":"722154","wban":"53885","name":"DALTON MUNICIPAL AIRPORT","country":"US","state":"GA","call":"KDNN","lat":"34.722","lon":"-84.869","elev":"+0216.4","begin":"20060101","end":"20180316"}
+{"usaf":"722154","wban":"99999","name":"DALTON","country":"US","state":"GA","call":"KDNN","lat":"34.722","lon":"-84.869","elev":"+0216.0","begin":"19990114","end":"20071231"}
+{"usaf":"722156","wban":"99999","name":"CARTERSVILLE","country":"US","state":"GA","call":"KVPC","lat":"34.117","lon":"-84.85","elev":"+0231.0","begin":"20010705","end":"20071231"}
+{"usaf":"722156","wban":"53873","name":"CARTERSVILLE AIRPORT","country":"US","state":"GA","call":"KVPC","lat":"34.123","lon":"-84.849","elev":"+0232.6","begin":"20060101","end":"20180306"}
+{"usaf":"722160","wban":"99999","name":"ALBANY MUNICIPAL","country":"US","state":"GA","call":"KABY","lat":"31.533","lon":"-84.183","elev":"+0059.0","begin":"20000101","end":"20031231"}
+{"usaf":"722160","wban":"13869","name":"SW GEORGIA REGIONAL ARPT","country":"US","state":"GA","call":"KABY","lat":"31.536","lon":"-84.194","elev":"+0057.9","begin":"19730101","end":"20180316"}
+{"usaf":"722166","wban":"93845","name":"VALDOSTA REGIONAL AIRPORT","country":"US","state":"GA","call":"KVLD","lat":"30.783","lon":"-83.277","elev":"+0060.4","begin":"19480101","end":"20180306"}
+{"usaf":"722166","wban":"99999","name":"VALDOSTA RGNL","country":"US","state":"GA","call":"KVLD","lat":"30.783","lon":"-83.267","elev":"+0062.0","begin":"20000101","end":"20031231"}
+{"usaf":"722170","wban":"03813","name":"MIDDLE GEORGIA REGIONAL AIRPO","country":"US","state":"GA","call":"KMCN","lat":"32.685","lon":"-83.653","elev":"+0104.6","begin":"19411020","end":"20180316"}
+{"usaf":"722175","wban":"13860","name":"ROBINS AFB AIRPORT","country":"US","state":"GA","call":"KWRB","lat":"32.633","lon":"-83.6","elev":"+0089.6","begin":"19420807","end":"20180316"}
+{"usaf":"722175","wban":"99999","name":"ROBINS AFB","country":"US","state":"GA","call":"KWRB","lat":"32.633","lon":"-83.6","elev":"+0090.0","begin":"20000101","end":"20071231"}
+{"usaf":"722176","wban":"53884","name":"NEWNAN COWETA COUNTY ARPT","country":"US","state":"GA","call":"KCCO","lat":"33.312","lon":"-84.77","elev":"+0295.7","begin":"20060101","end":"20180316"}
+{"usaf":"722176","wban":"99999","name":"NEWNAN COWETA CO","country":"US","state":"GA","call":"KCCO","lat":"33.317","lon":"-84.767","elev":"+0296.0","begin":"19990114","end":"20071231"}
+{"usaf":"722180","wban":"03820","name":"AUGUSTA REGIONAL AT BUSH FIEL","country":"US","state":"GA","call":"KAGS","lat":"33.364","lon":"-81.963","elev":"+0040.2","begin":"19480101","end":"20180316"}
+{"usaf":"722181","wban":"13837","name":"DANIEL FIELD AIRPORT","country":"US","state":"GA","call":"KDNL","lat":"33.467","lon":"-82.039","elev":"+0128.9","begin":"20060101","end":"20180316"}
+{"usaf":"722181","wban":"99999","name":"DANIEL FIELD","country":"US","state":"GA","call":"KDNL","lat":"33.467","lon":"-82.039","elev":"+0129.0","begin":"19970123","end":"20071231"}
+{"usaf":"722184","wban":"99999","name":"PLAINS / PETERSON FIELD","country":"US","state":"GA","call":"","lat":"32.08","lon":"-84.37","elev":"+0160.0","begin":"19771221","end":"19810122"}
+{"usaf":"722185","wban":"53838","name":"LEE GILMER MEMORIAL ARPT","country":"US","state":"GA","call":"KGVL","lat":"34.272","lon":"-83.83","elev":"+0388.6","begin":"20060101","end":"20180316"}
+{"usaf":"722185","wban":"99999","name":"LEE GILMER MEM","country":"US","state":"GA","call":"KGVL","lat":"34.267","lon":"-83.833","elev":"+0389.0","begin":"19970718","end":"20071231"}
+{"usaf":"722190","wban":"13874","name":"HARTSFIELD-JACKSON ATLANTA IN","country":"US","state":"GA","call":"KATL","lat":"33.63","lon":"-84.442","elev":"+0307.9","begin":"19730101","end":"20180316"}
+{"usaf":"722195","wban":"03888","name":"FULTON CO-BROWN FLD ARPT","country":"US","state":"GA","call":"KFTY","lat":"33.779","lon":"-84.521","elev":"+0256.0","begin":"20060101","end":"20180316"}
+{"usaf":"722195","wban":"99999","name":"FULTON CO ARPT BROW","country":"US","state":"GA","call":"KFTY","lat":"33.767","lon":"-84.517","elev":"+0256.0","begin":"19730101","end":"20071231"}
+{"usaf":"722196","wban":"53863","name":"DEKALB-PEACHTREE AIRPORT","country":"US","state":"GA","call":"KPDK","lat":"33.875","lon":"-84.302","elev":"+0305.4","begin":"20060101","end":"20180316"}
+{"usaf":"722196","wban":"99999","name":"DEKALB PEACHTREE","country":"US","state":"GA","call":"KPDK","lat":"33.867","lon":"-84.3","elev":"+0306.0","begin":"19810801","end":"20071231"}
+{"usaf":"722197","wban":"99999","name":"PEACHTREE CITY FALCO","country":"US","state":"GA","call":"KFFC","lat":"33.357","lon":"-84.572","elev":"+0246.0","begin":"19960201","end":"20071231"}
+{"usaf":"722197","wban":"53819","name":"PCHTRE CTY-FALCON FLD ARPT","country":"US","state":"GA","call":"KFFC","lat":"33.355","lon":"-84.567","elev":"+0243.2","begin":"20060101","end":"20180316"}
+{"usaf":"722217","wban":"99999","name":"W H BUD BARRON","country":"US","state":"GA","call":"KDBN","lat":"32.564","lon":"-82.985","elev":"+0094.0","begin":"20050628","end":"20071231"}
+{"usaf":"722217","wban":"63881","name":"W H `BUD` BARRON AIRPORT","country":"US","state":"GA","call":"KDBN","lat":"32.564","lon":"-82.985","elev":"+0094.2","begin":"20060101","end":"20180316"}
+{"usaf":"722250","wban":"99999","name":"FORT BENNING","country":"US","state":"GA","call":"KLSF","lat":"32.333","lon":"-85.0","elev":"+0071.0","begin":"20000101","end":"20071231"}
+{"usaf":"722250","wban":"13829","name":"LAWSON AAF AIRPORT","country":"US","state":"GA","call":"KLSF","lat":"32.35","lon":"-85.0","elev":"+0070.7","begin":"19390501","end":"20180316"}
+{"usaf":"722255","wban":"93842","name":"COLUMBUS METRO AIRPORT","country":"US","state":"GA","call":"KCSG","lat":"32.516","lon":"-84.942","elev":"+0119.5","begin":"19480101","end":"20180316"}
+{"usaf":"722270","wban":"13864","name":"DOBBINS AIR RESERVE BASE AIRP","country":"US","state":"GA","call":"KMGE","lat":"33.917","lon":"-84.517","elev":"+0325.5","begin":"19460901","end":"20180316"}
+{"usaf":"722270","wban":"99999","name":"MARIETTA/DOBBINS AF","country":"US","state":"GA","call":"KMGE","lat":"33.917","lon":"-84.517","elev":"+0326.0","begin":"20000101","end":"20071231"}
+{"usaf":"722273","wban":"99999","name":"ATLANTA (NAVRES)","country":"US","state":"GA","call":"","lat":"33.917","lon":"-84.517","elev":"+0326.0","begin":"20030712","end":"20030712"}
+{"usaf":"722691","wban":"00366","name":"CLAXTON EVANS COUNTY AIRPORT","country":"US","state":"GA","call":"KCWV","lat":"32.2","lon":"-81.87","elev":"+0034.1","begin":"20130101","end":"20180305"}
+{"usaf":"722691","wban":"99999","name":"CLAXTON EVANS CO","country":"US","state":"GA","call":"KCWV","lat":"32.195","lon":"-81.87","elev":"+0034.1","begin":"20080107","end":"20180315"}
+{"usaf":"723110","wban":"13873","name":"ATHENS/BEN EPPS AIRPORT","country":"US","state":"GA","call":"KAHN","lat":"33.948","lon":"-83.328","elev":"+0239.3","begin":"19730101","end":"20180316"}
+{"usaf":"723160","wban":"13870","name":"BACON COUNTY AIRPORT","country":"US","state":"GA","call":"KAMG","lat":"31.536","lon":"-82.507","elev":"+0058.8","begin":"20100801","end":"20180316"}
+{"usaf":"723200","wban":"99999","name":"ROME/RUSSELL(RAMOS)","country":"US","state":"GA","call":"KRMG","lat":"34.35","lon":"-85.167","elev":"+0196.0","begin":"20000101","end":"20031231"}
+{"usaf":"723200","wban":"93801","name":"RICHARD B RUSSELL AIRPORT","country":"US","state":"GA","call":"KRMG","lat":"34.348","lon":"-85.161","elev":"+0194.8","begin":"19780101","end":"20180316"}
+{"usaf":"725258","wban":"00382","name":"TOCCOA RG LETOURNEAU FIELD AI","country":"US","state":"GA","call":"KTOC","lat":"34.594","lon":"-83.296","elev":"+0303.3","begin":"20170519","end":"20180208"}
+{"usaf":"725258","wban":"99999","name":"TOCCOA RG LETOURNEAU FLD","country":"US","state":"GA","call":"KTOC","lat":"34.594","lon":"-83.296","elev":"+0303.0","begin":"20120607","end":"20180315"}
+{"usaf":"747804","wban":"99999","name":"HUNTER AAF","country":"US","state":"GA","call":"KSVN","lat":"32.009","lon":"-81.146","elev":"+0013.0","begin":"19440301","end":"20071231"}
+{"usaf":"747804","wban":"13824","name":"HUNTER ARMY AIRFIELD","country":"US","state":"GA","call":"KSVN","lat":"32.017","lon":"-81.133","elev":"+0012.5","begin":"20060101","end":"20180316"}
+{"usaf":"747805","wban":"99999","name":"STATESBORO BULLOCH","country":"US","state":"GA","call":"KTBR","lat":"32.482","lon":"-81.733","elev":"+0057.0","begin":"20020423","end":"20071231"}
+{"usaf":"747805","wban":"63818","name":"STATESBORO-BULLOCK CO ARPT","country":"US","state":"GA","call":"KTBR","lat":"32.483","lon":"-81.737","elev":"+0057.0","begin":"20060101","end":"20180316"}
+{"usaf":"747806","wban":"63809","name":"THOMASTON-UPSON CO AIRPORT","country":"US","state":"GA","call":"KOPN","lat":"32.955","lon":"-84.264","elev":"+0242.6","begin":"20060101","end":"20180316"}
+{"usaf":"747806","wban":"99999","name":"THOMASTON UPSON CO","country":"US","state":"GA","call":"KOPN","lat":"32.95","lon":"-84.267","elev":"+0243.0","begin":"20020423","end":"20071231"}
+{"usaf":"747807","wban":"99999","name":"LAGRANGE CALLAWAY","country":"US","state":"GA","call":"KLGC","lat":"33.017","lon":"-85.067","elev":"+0211.0","begin":"20020423","end":"20071231"}
+{"usaf":"747807","wban":"03821","name":"LAGRANGE-CALLAWAY AIRPORT","country":"US","state":"GA","call":"KLGC","lat":"33.017","lon":"-85.067","elev":"+0207.9","begin":"20060101","end":"20180316"}
+{"usaf":"747808","wban":"99999","name":"GWINNETT COUNTY ARPT","country":"US","state":"GA","call":"KLZU","lat":"33.978","lon":"-83.962","elev":"+0323.0","begin":"20020430","end":"20071231"}
+{"usaf":"747808","wban":"63803","name":"GWINNETT CO-BRISCOE FD APT","country":"US","state":"GA","call":"KLZU","lat":"33.98","lon":"-83.963","elev":"+0323.4","begin":"20060101","end":"20180316"}
+{"usaf":"747809","wban":"03832","name":"WINDER-BORROW AIRPORT","country":"US","state":"GA","call":"KWDR","lat":"33.983","lon":"-83.668","elev":"+0287.4","begin":"20060101","end":"20180316"}
+{"usaf":"747809","wban":"99999","name":"WINDER BARROW","country":"US","state":"GA","call":"KWDR","lat":"33.983","lon":"-83.667","elev":"+0287.0","begin":"20020430","end":"20071231"}
+{"usaf":"747810","wban":"13857","name":"MOODY AFB AIRPORT","country":"US","state":"GA","call":"KVAD","lat":"30.967","lon":"-83.2","elev":"+0071.0","begin":"20060103","end":"20180316"}
+{"usaf":"747810","wban":"99999","name":"MOODY AFB/VALDOSTA","country":"US","state":"GA","call":"KVAD","lat":"30.967","lon":"-83.2","elev":"+0071.0","begin":"19420401","end":"20071231"}
+{"usaf":"747812","wban":"63813","name":"COBB CO-MC COLLUM FLD ARPT","country":"US","state":"GA","call":"KRYY","lat":"34.013","lon":"-84.599","elev":"+0317.0","begin":"20060101","end":"20180316"}
+{"usaf":"747812","wban":"99999","name":"COBB CO MCCOLLUM FLD","country":"US","state":"GA","call":"KRYY","lat":"34.013","lon":"-84.599","elev":"+0317.0","begin":"20020430","end":"20071231"}
+{"usaf":"749011","wban":"99999","name":"LA GRANGE GA/GALLOWAY APT FAA","country":"US","state":"GA","call":"GA33","lat":"33.016","lon":"-85.066","elev":"+0216.0","begin":"19530701","end":"19550101"}
+{"usaf":"749078","wban":"99999","name":"BAINBRIDGE/AAF GA","country":"US","state":"GA","call":"BGE","lat":"30.983","lon":"-84.633","elev":"+0040.0","begin":"19420917","end":"19450108"}
+{"usaf":"749081","wban":"99999","name":"AUGUSTA/DANIEL FIELD GA","country":"US","state":"GA","call":"DNL","lat":"33.466","lon":"-82.033","elev":"+0134.0","begin":"19420703","end":"19430602"}
+{"usaf":"749088","wban":"99999","name":"THOMASVILLE GEORGIA AAF","country":"US","state":"GA","call":"TVI","lat":"30.9","lon":"-83.85","elev":"+0074.0","begin":"19440216","end":"20100621"}
+{"usaf":"749483","wban":"00394","name":"JACKSON COUNTY AIRPORT","country":"US","state":"GA","call":"K19A","lat":"34.147","lon":"-83.561","elev":"+0290.2","begin":"20171004","end":"20180305"}
+{"usaf":"749483","wban":"99999","name":"JACKSON CO","country":"US","state":"GA","call":"","lat":"34.174","lon":"-83.561","elev":"+0289.9","begin":"19450201","end":"20180315"}
+{"usaf":"749496","wban":"99999","name":"MOGUL","country":"US","state":"GA","call":"","lat":"32.833","lon":"-83.567","elev":"+0141.0","begin":"19480101","end":"19481201"}
+{"usaf":"787804","wban":"99999","name":"SAVANAH GA/HUNTER FLD","country":"US","state":"GA","call":"SVN","lat":"-32.133","lon":"-81.2","elev":"+0013.0","begin":"19480101","end":"19481201"}
+{"usaf":"994830","wban":"99999","name":"U.S. NAVY TOWER R2","country":"US","state":"GA","call":"","lat":"31.38","lon":"-80.57","elev":"+0050.0","begin":"20040608","end":"20091001"}
+{"usaf":"994860","wban":"99999","name":"U.S. NAVY TOWER R8","country":"US","state":"GA","call":"","lat":"31.633","lon":"-79.917","elev":"+0034.0","begin":"20040608","end":"20080415"}
+{"usaf":"999999","wban":"13864","name":"MARIETTA DOBBINS AAF","country":"US","state":"GA","call":"KMGE","lat":"33.917","lon":"-84.517","elev":"+0325.5","begin":"19710101","end":"19710101"}
+{"usaf":"999999","wban":"13829","name":"FORT BENNING LAWSON","country":"US","state":"GA","call":"KLSF","lat":"32.35","lon":"-85.0","elev":"+0070.7","begin":"19710101","end":"19710101"}
+{"usaf":"999999","wban":"13815","name":"ALBANY NAVAL AIR STN","country":"US","state":"GA","call":"","lat":"31.583","lon":"-84.117","elev":"+0066.1","begin":"19720101","end":"19721231"}
+{"usaf":"999999","wban":"03813","name":"MACON MIDDLE GA REGIONAL AP","country":"US","state":"GA","call":"KMCN","lat":"32.685","lon":"-83.653","elev":"+0110.3","begin":"19481201","end":"19721231"}
+{"usaf":"999999","wban":"63850","name":"WATKINSVILLE 5 SSE","country":"US","state":"GA","call":"","lat":"33.784","lon":"-83.39","elev":"+0225.9","begin":"20040430","end":"20171006"}
+{"usaf":"999999","wban":"13853","name":"SAVANNAH CHATHAM FIELD AAF","country":"US","state":"GA","call":"","lat":"32.133","lon":"-81.2","elev":"+0015.8","begin":"19490520","end":"19501001"}
+{"usaf":"999999","wban":"03822","name":"SAVANNAH INTL AP","country":"US","state":"GA","call":"KSAV","lat":"32.13","lon":"-81.21","elev":"+0015.5","begin":"19650101","end":"19721231"}
+{"usaf":"999999","wban":"63829","name":"NEWTON 11 SW","country":"US","state":"GA","call":"","lat":"31.192","lon":"-84.447","elev":"+0047.6","begin":"20020827","end":"20171006"}
+{"usaf":"999999","wban":"13878","name":"BRUNSWICK MALCOLM MCKINNON AP","country":"US","state":"GA","call":"KSSI","lat":"31.152","lon":"-81.391","elev":"+0007.3","begin":"19481201","end":"19550101"}
+{"usaf":"999999","wban":"93842","name":"COLUMBUS MUSCOGEE COUNTY ARPT","country":"US","state":"GA","call":"KCSG","lat":"32.516","lon":"-84.942","elev":"+0120.1","begin":"19530101","end":"19711231"}
+{"usaf":"999999","wban":"93836","name":"BRUNSWICK GLYNN CO A","country":"US","state":"GA","call":"NEA","lat":"31.25","lon":"-81.467","elev":"+0009.1","begin":"19450201","end":"19740731"}
+{"usaf":"999999","wban":"63828","name":"NEWTON 8 W","country":"US","state":"GA","call":"","lat":"31.313","lon":"-84.471","elev":"+0053.6","begin":"20020827","end":"20171006"}
+{"usaf":"999999","wban":"13874","name":"ATLANTA HARTSFIELD INTL AP","country":"US","state":"GA","call":"KATL","lat":"33.63","lon":"-84.442","elev":"+0312.7","begin":"19450101","end":"19721231"}
+{"usaf":"999999","wban":"13873","name":"ATHENS MUNICIPAL ARPT","country":"US","state":"GA","call":"KAHN","lat":"33.948","lon":"-83.328","elev":"+0244.4","begin":"19550901","end":"19721231"}
+{"usaf":"999999","wban":"53882","name":"KNOXVILLE ISLAND AP","country":"US","state":"GA","call":"KBGE","lat":"30.983","lon":"-84.633","elev":"+0043.0","begin":"20020602","end":"20041231"}
+{"usaf":"999999","wban":"63856","name":"BRUNSWICK 23 S","country":"US","state":"GA","call":"","lat":"30.808","lon":"-81.46","elev":"+0007.6","begin":"20041215","end":"20171006"}
+{"usaf":"999999","wban":"13869","name":"ALBANY MUNICIPAL AP","country":"US","state":"GA","call":"KABY","lat":"31.536","lon":"-84.194","elev":"+0058.8","begin":"19480101","end":"19550101"}
+{"usaf":"999999","wban":"93801","name":"ROME R B RUSSELL AP","country":"US","state":"GA","call":"KRMG","lat":"34.348","lon":"-85.161","elev":"+0196.3","begin":"19480101","end":"19771222"}
+{"usaf":"999999","wban":"93830","name":"ATLANTA NAS","country":"US","state":"GA","call":"NCQ","lat":"33.867","lon":"-84.3","elev":"+0302.1","begin":"19450201","end":"19590225"}
+{"usaf":"999999","wban":"53846","name":"KINGS BAY/NAVAL STATION","country":"US","state":"GA","call":"","lat":"30.8","lon":"-81.5","elev":"+0015.2","begin":"19960702","end":"20031231"}
+{"usaf":"999999","wban":"03874","name":"FORT BENNING MCKENNA","country":"US","state":"GA","call":"MKF","lat":"32.367","lon":"-84.8","elev":"+0134.1","begin":"19640302","end":"19650722"}
+{"usaf":"999999","wban":"03820","name":"AUGUSTA BUSH FIELD","country":"US","state":"GA","call":"KAGS","lat":"33.364","lon":"-81.963","elev":"+0045.1","begin":"19510101","end":"19721231"}
+{"usaf":"999999","wban":"93845","name":"VALDOSTA WB AIRPORT","country":"US","state":"GA","call":"KVLD","lat":"30.783","lon":"-83.277","elev":"+0060.4","begin":"19720101","end":"19721231"}
+{"usaf":"999999","wban":"13870","name":"ALMA BACON COUNTY AP","country":"US","state":"GA","call":"KAMG","lat":"31.536","lon":"-82.507","elev":"+0062.8","begin":"19490101","end":"19590101"}
+{"usaf":"722077","wban":"99999","name":"TYBEE COAST GUARD STATION","country":"US","state":"GA","call":"","lat":"32.02","lon":"-80.85","elev":"+0002.0","begin":"19750911","end":"19871030"}
+{"usaf":"999999","wban":"93840","name":"ST SIMONS ISLAND NAS","country":"US","state":"GA","call":"","lat":"31.167","lon":"-81.4","elev":"+0003.0","begin":"19450501","end":"19470420"}
+{"usaf":"998010","wban":"99999","name":"SAPELO ISLAND RESERVE","country":"US","state":"GA","call":"","lat":"31.417","lon":"-81.283","elev":"+0005.0","begin":"20071016","end":"20180315"}
+{"usaf":"749085","wban":"99999","name":"HARRIS NECK AAF","country":"US","state":"GA","call":"","lat":"31.633","lon":"-81.267","elev":"+0006.0","begin":"19440501","end":"19441214"}
+{"usaf":"997301","wban":"99999","name":"FT PALASKI","country":"US","state":"GA","call":"","lat":"32.03","lon":"-80.9","elev":"+0006.0","begin":"20050217","end":"20180315"}
+{"usaf":"722136","wban":"99999","name":"BRUNSWICK GOLDEN IS","country":"US","state":"GA","call":"KBQK","lat":"31.25","lon":"-81.467","elev":"+0008.0","begin":"19730101","end":"20071231"}

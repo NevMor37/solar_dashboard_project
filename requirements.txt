@@ -1,0 +1,6 @@
+Flask==0.12.2
+Werkzeug<0.13.0,>=0.12.0
+requests
+requests-toolbelt
+google-cloud-bigquery
+flask-cors
